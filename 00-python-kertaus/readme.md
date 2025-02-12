@@ -12,4 +12,4 @@
 
 ## Linkkejä
 
-- (https://juho-python-oj.netlify.app/)[https://juho-python-oj.netlify.app/]
+- [https://juho-python-oj.netlify.app/](https://juho-python-oj.netlify.app/)
