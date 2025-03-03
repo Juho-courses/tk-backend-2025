@@ -16,6 +16,6 @@ def read_all_books(author: str = ""):
     return [b for b in books if b["author"] == author]
 
 
-@app.get("/books/{id}")
+@app.get("/books/{book_id}")
 def read_book_by_id(book_id: int):
     return [b for b in books if b["id"] == book_id][0]
